@@ -1,0 +1,21 @@
+2024-10-11 20:24:15.334 [info] Extension host with pid 1242 started
+2024-10-11 20:24:15.525 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-11 20:24:16.529 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-11 20:24:18.192 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-11 20:24:18.192 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-11 20:24:19.644 [warning] Using default string since no string found in i18n bundle that has the key: Log level: {0}
+2024-10-11 20:24:19.647 [warning] Using default string since no string found in i18n bundle that has the key: Validating found git in: "{0}"
+2024-10-11 20:24:19.684 [warning] Using default string since no string found in i18n bundle that has the key: Using git "{0}" from "{1}"
+2024-10-11 20:24:19.699 [info] Eager extensions activated
+2024-10-11 20:24:19.699 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-10-11 20:24:19.700 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-10-11 20:24:19.700 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-10-11 20:24:19.700 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-11 20:24:19.701 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-11 20:24:20.595 [error] No bundle location found for extension EditorConfig.EditorConfig
+2024-10-11 20:24:20.642 [error] No bundle location found for extension googlecloudtools.cloudcode
+2024-10-11 20:24:22.982 [error] No bundle location found for extension google.cloud-shell
+2024-10-11 20:24:23.206 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-11 20:24:23.207 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-11 20:24:40.693 [info] Extension host terminating: received terminate message from renderer
+2024-10-11 20:24:40.721 [info] Extension host with pid 1242 exiting with code 0
