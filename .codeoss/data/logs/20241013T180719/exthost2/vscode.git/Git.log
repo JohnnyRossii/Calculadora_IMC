@@ -1,0 +1,28 @@
+2024-10-13 18:30:38.809 [info] Log level: Info
+2024-10-13 18:30:38.809 [info] Validating found git in: "git"
+2024-10-13 18:30:38.809 [info] Using git "2.43.0" from "git"
+2024-10-13 18:30:38.809 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-13 18:30:38.809 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:38.809 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-13 18:30:38.809 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:38.809 [info] > git rev-parse --show-toplevel [36ms]
+2024-10-13 18:30:38.809 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:38.809 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-13 18:30:38.809 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:38.811 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-13 18:30:38.811 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:38.820 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-13 18:30:38.820 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:38.829 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-13 18:30:38.829 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:38.839 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-13 18:30:38.839 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:39.230 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-13 18:30:39.230 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:42.529 [info] > git rev-parse --show-toplevel [25ms]
+2024-10-13 18:30:42.529 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:42.583 [info] > git rev-parse --show-toplevel [14ms]
+2024-10-13 18:30:42.583 [info] fatal: this operation must be run in a work tree
+2024-10-13 18:30:47.267 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-13 18:31:20.101 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-13 18:32:03.098 [info] > git rev-parse --show-toplevel [4ms]

@@ -24,3 +24,10 @@ exit
 git remote set-url origin https://<TOKEN>@github.com/johnnyrossii/calculadora_imc.git
 https://github.com/JohnnyRossii/Calculadora_IMC
 git init
+git add .
+git commit -m "Primeiro commit - Adicionando o projeto de cálculo de IMC"
+git remote add origin https://github.com/JohnnyRossii/Calculadora_IMC
+git remove -v
+git remote -v
+exit
+git init

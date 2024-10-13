@@ -7,3 +7,8 @@
 2024-10-13 18:07:22.369 [info] [127.0.0.1][1a83ef56][ManagementConnection] New connection established.
 2024-10-13 18:07:22.584 [info] [127.0.0.1][eda0d1cb][ExtensionHostConnection] New connection established.
 2024-10-13 18:07:24.861 [info] [127.0.0.1][eda0d1cb][ExtensionHostConnection] <1190> Launched Extension Host Process.
+2024-10-13 18:30:28.864 [info] [127.0.0.1][1a83ef56][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-13 18:30:28.966 [info] [127.0.0.1][eda0d1cb][ExtensionHostConnection] <1190> Extension Host Process exited with code: 0, signal: null.
+2024-10-13 18:30:31.618 [info] [127.0.0.1][53c79e93][ManagementConnection] New connection established.
+2024-10-13 18:30:31.916 [info] [127.0.0.1][4113759d][ExtensionHostConnection] New connection established.
+2024-10-13 18:30:31.932 [info] [127.0.0.1][4113759d][ExtensionHostConnection] <2871> Launched Extension Host Process.

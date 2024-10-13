@@ -1,0 +1,9 @@
+2024-10-13 18:31:21.888 [info] Default formatter is set to null for workspace /home/rossi_rockero/.git
+2024-10-13 18:31:21.888 [info] Test server listening.
+2024-10-13 18:31:21.888 [info] > hatch env show --json
+2024-10-13 18:31:21.888 [info] cwd: .
+2024-10-13 18:31:21.888 [info] Python interpreter path: /bin/python
+2024-10-13 18:31:21.943 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2024-10-13 18:31:22.075 [info] > pyenv which python
+2024-10-13 18:31:22.075 [info] cwd: .
+2024-10-13 18:31:24.187 [info] Starting Jedi language server for .git.

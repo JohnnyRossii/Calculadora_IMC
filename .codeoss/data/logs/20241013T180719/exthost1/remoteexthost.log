@@ -292,3 +292,5 @@ Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-pyth
 2024-10-13 18:07:38.136 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-10-13 18:07:38.136 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-10-13 18:07:38.169 [warning] Using default string since no string found in i18n bundle that has the key: Starting Jedi language server for {0}.
+2024-10-13 18:30:28.867 [info] Extension host terminating: received terminate message from renderer
+2024-10-13 18:30:28.914 [info] Extension host with pid 1190 exiting with code 0
