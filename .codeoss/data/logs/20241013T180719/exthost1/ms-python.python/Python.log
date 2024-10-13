@@ -30,3 +30,6 @@ Try `python -h' for more information.
 2024-10-13 18:07:31.363 [info] > /bin/python2 /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
 2024-10-13 18:07:31.481 [info] Python interpreter path: /bin/python
 2024-10-13 18:07:38.169 [info] Starting Jedi language server for default.
+2024-10-13 18:24:39.417 [info] CreateEnv Trigger - Workspace not found for /home/rossi_rockero/calculadora_imc.py
+2024-10-13 18:24:39.955 [info] Send text to terminal: /bin/python /home/rossi_rockero/calculadora_imc.py
+2024-10-13 18:24:45.710 [info] Send text to terminal: /bin/python /home/rossi_rockero/calculadora_imc.py
